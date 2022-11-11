@@ -2,16 +2,12 @@
 {
     "urls": [
         {
-           "url": "https://raw.iqiq.io/lyghgx/tvboxs/main/h1.json",
+           "url": "https://raw.iqiq.io/lyghgx/tv/main/h1.json",
            "name":"自建1"
         },
 	{
-           "url": "https://raw.kgithub.com/lyghgx/tvboxs/main/h2.json",
+           "url": "https://raw.kgithub.com/lyghgx/tv/main/h2.json",
            "name":"自建2"
-        },
-	{
-           "url": "https://raw.kgithub.com/lyghgx/tvboxs/main/h3.json",
-           "name":"自建3"
         },
         {
            "url": "https://raw.iqiq.io/leevi0709/duo/main/v.json",
