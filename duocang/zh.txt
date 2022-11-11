@@ -3,7 +3,11 @@
     "urls": [
         {
            "url": "https://raw.iqiq.io/lyghgx/tv/main/h1.json",
-           "name":"自建"
+           "name":"自建1"
+        },
+	{
+           "url": "https://raw.fastgit.org/lyghgx/tv/main/h2.json",
+           "name":"自建2"
         },
         {
            "url": "https://raw.iqiq.io/leevi0709/duo/main/v.json",
