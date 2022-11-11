@@ -152,10 +152,6 @@
 	{
 	    "url":"https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg",
 	    "name":"🍭agit/66666线路"
-	},
-	{
-	    "url":"https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
-	    "name":"🍭蚂蚁论坛线路"
 	}
 		 
    ]
