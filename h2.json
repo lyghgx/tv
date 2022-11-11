@@ -51,7 +51,7 @@
 //
 {"name":"📡Alist","key":"csp_Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tvboxs/main/json/ext/Alist.json"},
 {"name":"📡豆瓣T4","key":"t4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
-
+{"name":"📜小纸条〔SP〕","key": "Gitcafe","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3895f91c81741959c22feb5fe3a5def"},
 //xBPQ系列
 {"name":"🌐1080TV xBPQ","key":"xBPQ_1080TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/1080TV.json"},
 {"name":"🌐1080在线 xBPQ","key":"xBPQ_1080在线","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/1080在线.json"},
