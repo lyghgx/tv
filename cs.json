@@ -63,7 +63,7 @@
 {"name":"🌕Cokemv","key":"csp_Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕美剧星球","key":"csp_Mjxq","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕3EDY","key":"csp_EEEDY","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🌕看十界","key":"csp_KanSJ","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"🌕看视界","key":"csp_KanSJ","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 //
 {"name":"📡Alist","key":"csp_Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/ext/Alist.json"},
 {"name":"📡豆瓣T4","key":"t4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
