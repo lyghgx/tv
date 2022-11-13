@@ -73,8 +73,8 @@ CCTV-4K 超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/i
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+
 台湾,#genre#
-三立新聞,http://60.251.59.180:8506/ch18.m3u8
 TVBS新聞,rtmp://9wv7.mine.nu/sat/tv551
 台視,rtmp://9wv7.mine.nu/sat/tv071
 东森超视,rtmp://9wv7.mine.nu/sat/tv331
@@ -152,50 +152,11 @@ TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 華視新聞資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天亞洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-公視台語台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 民視台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 公視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
 鳳凰資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-東森YOYO,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-MOMO親子台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-卡通台1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-卡通台2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-DAVE卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-卡通台3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-卡通台4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
-大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-大愛2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-大愛3台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-東森購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-MOMO購物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-MOMO購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-VIVA購物台1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-VIVA購物台2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-信吉電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-SKY NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-Euro News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-France News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-NBC news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 鳳凰衛視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-Bloomberg,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-NASA1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-CCTV4中文國際,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-伊朗電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
-佛教電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-Media Corp,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-CNA USA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-HTB Japan,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-ALJAZEERA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-KBS Korea,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-Korea,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-YTN Korea,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-Japan,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 少儿动画,#genre#
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 小猪佩奇,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
