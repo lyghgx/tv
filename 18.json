@@ -32,7 +32,7 @@
 //壁纸+jar+直播
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://raw.fastgit.org/lyghgx/tv/main/jar/pp12.jar;md5;583adae6a2078370c65403136d6053d4",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://raw.fastgit.org/lyghgx/tv/main/tv/AV2.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://raw.fastgit.org/lyghgx/tv/main/tv/18.txt"]}]}],
  
 //解码模式
 "ijk":[
