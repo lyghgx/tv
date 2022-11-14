@@ -11,55 +11,64 @@
         },
 	{
            "url":"https://pandora2277.github.io/tang.bmp",
-           "name":"🚀唐长老"
+           "name":"唐长老"
+        },
+	{
+           "url":"http://home.jundie.top:81/top98.json",
+           "name":"俊的"
+        },
+	
+	{
+           "url":"https://tvbox.cainisi.cf/",
+           "name":"菜妮丝"
         },
         {
            "url": "https://raw.iqiq.io/leevi0709/duo/main/v.json",
-           "name":"🏡多多家庭版"
+           "name":"多多家庭版"
         },
         {
            "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-           "name":"🚀南风线路"
+           "name":"南风线路"
         },
         {
           "url":"https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-          "name":"🚀云星家庭"
+          "name":"云星家庭"
         },
         {
           "url":"http://111.67.196.181/mtv/meow.txt",
-          "name":"🚀太阳线路"
+          "name":"太阳线路"
         },
         {
           "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
-           "name":"🚀元兴线路"
+           "name":"元兴线路"
         },
         {
           "url":"http://刚刚.live/猫",
-          "name":"🚀刚刚线路"
+          "name":"刚刚线路"
         },
         {
           "url":"https://神器每日推送.tk/pz.json",
-          "name":"🚀神器线路"
+          "name":"神器线路"
         },
         {
           "url":"https://raw.liucn.cc/box/m.json",
-          "name":"🚀老刘备线路"
+          "name":"老刘备线路"
         },
         {
           "url":"http://dxawi.github.io/0/0.json",
-          "name":"🚀dxawi线路"
+          "name":"dxawi线路"
         },
         {
           "url":"http://js.134584.xyz/json/pp87.json",
-          "name":"🚀星辰影视线路"
+          "name":"星辰影视线路"
         },
         {
             "url": "http://101.34.67.237/config/3",
-            "name": "💎道长T4线路"
+            "name": "道长T4线路"
         },
         {
             "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
-            "name": "💎佰欣园线路"
+            "name": "佰欣园线路"
         }
    ]
    
