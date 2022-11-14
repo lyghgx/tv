@@ -1,19 +1,14 @@
 {
 "sites":[
-{"name":"📡豆瓣(T4)","key":"T4_douban","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🌕厂长资源","key":"csp_Czsapp","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕快看影视","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🌕低端影视","key":"csp_Ddrk","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕双十影视","key":"csp_Dy1010","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕泥巴影院","key":"csp_Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕Xiaoh","key":"csp_Xiaoh","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕If101","key":"csp_If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 
 //xBPQ系列
-{"name":"🌐Cokemv xBPQ","key":"xBPQ_Cokemv","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/Cokemv.json"},
 {"name":"🌐冲TMTV xBPQ","key":"xBPQ_冲TMTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/冲TMTV.json"},
-{"name":"🌐鸭奈飞 xBPQ","key":"xBPQ_鸭奈飞","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/鸭奈飞.json"}
-
+{"name":"🌐555电影 xBPQ","key":"xBPQ_555电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/555电影.json"}
 ],
 
  //解析接口
