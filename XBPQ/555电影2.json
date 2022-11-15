@@ -22,7 +22,7 @@
   
   "播放数组": "module-play-list\">&&</div>"
   "筛选":{
-"1":[
+"vodtype/1":[
   {"key":"剧情","name":"剧情","value":[
   {"n":"全部","v":"全部"},
   {"n":"Netflix","v":"Netflix"},
