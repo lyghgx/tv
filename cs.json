@@ -1,5 +1,6 @@
 {
 "sites":[
+{"name":"🌐鸭奈飞2 xBPQ","key":"xBPQ_鸭奈飞2","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/鸭奈飞2.json"},
 {"name":"📡豆瓣(T4)","key":"T4_douban","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🍅腾讯视频(官)","key":"csp_QQ","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🥝爱奇艺(官)","key":"csp_IQIYI","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
