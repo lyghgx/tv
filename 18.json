@@ -1,7 +1,5 @@
 {
 "sites":[
-{"name":"🌕快看影视","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🌕双十影视","key":"csp_Dy1010","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕泥巴影院","key":"csp_Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕Xiaoh","key":"csp_Xiaoh","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕If101","key":"csp_If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
