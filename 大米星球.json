@@ -1,10 +1,10 @@
 {
-  "作者": "hgx",
-  "站名": "555电影",
+  "作者": "HGX",
+  "站名": "大米星球",
   "主页url": "https://www.dmfl1.com/",
   
-  "分类": "Netflix&电影&连续剧&动漫&综艺记录&福利",
-  "分类值": "/label/netflix&/vodtype/1&/vodtype/2&/vodtype/4&/vodtype/3&/vodtype/124",
+  "分类": "Netflix&电影&连续剧&动漫&综艺&福利",
+  "分类值": "/label/netflix&/vodtype/20&/vodtype/21&/vodtype/24&/vodtype/23&/vodtype/35",
   
   "分类url": "https://www.dmfl1.com/{cateId}/page/{catePg}.html",
   
