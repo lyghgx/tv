@@ -6,7 +6,7 @@
   "分类": "电影&剧集&综艺&动漫&记录",
   "分类值": "dianying&juji&zongyi&dongman&jilupian",
   
-  "分类url": "https://waipian7.com/show/-{cateId}-{area}-{by}-{class}--------{year}/",
+  "分类url": "https://waipian7.com/show-{cateId}-{area}-{by}-{class}--------{year}/",
   
   "副标题": "module-item-note\">&&</div>",
   
