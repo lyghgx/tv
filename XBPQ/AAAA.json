@@ -1,17 +1,17 @@
 {
-  "作者": "HGX",
-  "站名": "RENPE",
-  "主页url": "https://waipian7.com/",
+  "作者": "hgx",
+  "站名": "555电影",
+  "主页url": "https://www.dmfl1.com/",
   
-  "分类": "电影&剧集&综艺&动漫&记录",
-  "分类值": "dianying&juji&zongyi&dongman&jilupian",
+  "分类": "Netflix&电影&连续剧&动漫&综艺记录&福利",
+  "分类值": "/label/netflix&/vodtype/1&/vodtype/2&/vodtype/4&/vodtype/3&/vodtype/124",
   
-  "分类url": "https://waipian7.com/show-{cateId}-{area}-{by}-{class}--------{year}/",
+  "分类url": "https://www.dmfl1.com/{cateId}/page/{catePg}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
   "搜索模式": "0",
-  "搜索后缀": "/voddetail/",
+  "搜索后缀":"/voddetail/",
   
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
@@ -20,5 +20,5 @@
   "线路数组": "data-dropdown-value=&&</div>",
   "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
   
-  "播放数组": "class=\"module-play-list\">&&</div>"
- }
+  "播放数组": "module-play-list\">&&</div>"
+}
