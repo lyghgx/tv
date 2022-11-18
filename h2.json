@@ -29,6 +29,7 @@
 {"name":"🌐LIBVIO xBPQ","key":"xBPQ_LIBVIO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/LIBVIO.json"},
 {"name":"🌐VOFLIX xBPQ","key":"xBPQ_VOFLIX","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/VOFLIX.json"},
 {"name":"🌐555电影 xBPQ","key":"xBPQ_555电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/555电影.json"},
+{"name":"🌐大米星球 xBPQ","key":"xBPQ_大米星球","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/大米星球.json"},
 {"name":"🌐双十电影 xBPQ","key":"xBPQ_双十电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/双十电影.json"},
 {"name":"🌐COKEMV xBPQ","key":"xBPQ_COKEMV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/COKEMV.json"},
 {"name":"🌐鸭奈飞 xBPQ","key":"xBPQ_鸭奈飞","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/lyghgx/tv/main/XBPQ/鸭奈飞.json"},
