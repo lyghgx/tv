@@ -1,8 +1,6 @@
 {
 "sites":[
 {"name":"🌕泥巴影院","key":"csp_Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🌕Xiaoh","key":"csp_Xiaoh","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🌕If101","key":"csp_If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
  
 //js系列
 {"name":"⛰18av js","key":"js_18av","type":3,"searchable":2,"quickSearch":0,"filterable":0,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/18/18av.js"},
@@ -83,7 +81,7 @@
 
 //壁纸+jar+直播
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.fastgit.org/lyghgx/tv/main/jar/pp14.jar;md5;eadf2a7a1419c0a15ce47e354f47880d",
+"spider":"https://raw.fastgit.org/lyghgx/tv/main/jar/18.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://raw.fastgit.org/lyghgx/tv/main/tv/18.txt"]}]}],
  
 //解码模式
