@@ -1,5 +1,5 @@
 玩偶姐姐,#genre#
-测试,https://adoda-smart-coin.mushroomtrack.com/hls/HaSt8IrAwpOdu1QT2sJ2LA/1669197807/28000/28566/28566.m3u8
+测试,https://dash.madou.club/videos/6377cb58f71cbb282c2a5c17/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJ2aWV3IiwiaWF0IjoxNjY5MTg3NjczLCJleHAiOjE2NjkxODc3NzN9.Od6O-t89io3CLPgD6poR7IY2muZNrTDnzHBg8M8P2nE
 青蛇,https://t7.cdn2020.com/video/m3u8/2021/04/13/3068b86f/index.m3u8
 晨钟暮鼓,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/4227fd89/index.m3u8
 森林-0,https://t11.cdn2020.com:12336/video/m3u8/2021/09/07/44c2f4b0/index.m3u8
