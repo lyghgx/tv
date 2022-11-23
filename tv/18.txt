@@ -1,5 +1,10 @@
 玩偶姐姐,#genre#
-测试,https://dash.madou.club/videos/6377cb58f71cbb282c2a5c17/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJ2aWV3IiwiaWF0IjoxNjY5MTg3NjczLCJleHAiOjE2NjkxODc3NzN9.Od6O-t89io3CLPgD6poR7IY2muZNrTDnzHBg8M8P2nE
+测试1,https://fmoclepuyo.motv.app/Japanuncode8877/HongKongDoll32.m3u8
+测试2,https://fmoclepuyo.motv.app/Japanuncode8877/HongKongDoll26.m3u8
+测试3,https://fmoclepuyo.motv.app/Japanuncode8877/HongKongDoll25.m3u8
+测试4,https://fmoclepuyo.motv.app/Japanuncode8877/HongKongDoll16.m3u8
+测试5,https://fmoclepuyo.motv.app/Japancodespeical1199/yiluxiangxi.m3u8
+测试6https://fmoclepuyo.motv.app/JS0271-JS0370/sdde-617-C.m3u8
 青蛇,https://t7.cdn2020.com/video/m3u8/2021/04/13/3068b86f/index.m3u8
 晨钟暮鼓,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/4227fd89/index.m3u8
 森林-0,https://t11.cdn2020.com:12336/video/m3u8/2021/09/07/44c2f4b0/index.m3u8
