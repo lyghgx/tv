@@ -6,9 +6,6 @@
 {"name":"🌕两个BT","key":"csp_Bttoo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕剧荒影院","key":"csp_Juhuang","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🍋芒果TV(官)","key":"csp_MGTV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-//
-{"name":"📡Alist","key":"csp_Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/other/Alist.json"},
-
 //xBPQ系列
 {"name":"🌐LIBVIO xBPQ","key":"xBPQ_LIBVIO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/LIBVIO.json"},
 {"name":"🌐VOFLIX xBPQ","key":"xBPQ_VOFLIX","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/VOFLIX.json"},
@@ -72,7 +69,7 @@
 
 //壁纸+jar+直播
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.iqiq.io/lyghgx/tv/main/jar/pp14.jar;md5;eadf2a7a1419c0a15ce47e354f47880d",
+"spider":"https://raw.iqiq.io/lyghgx/tv/main/jar/xBPQ.jar;md5;ae6105d1e3c5dc727f9dc45596b35fb8",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9seWdoZ3gvdHYvbWFpbi90di90dmxpdmUudHh0"]}]}],
 
 //解码模式
