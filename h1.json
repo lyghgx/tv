@@ -8,8 +8,6 @@
 {"name":"🌕双十影视","key":"csp_Dy1010","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕低端影视","key":"csp_Ddrk","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕剧荒影院","key":"csp_Juhuang","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🌕看视界","key":"csp_KanSJ","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🌕3EDY","key":"csp_EEEDY","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🍅腾讯视频(官)","key":"csp_QQ","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🥝爱奇艺(官)","key":"csp_IQIYI","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🍋芒果TV(官)","key":"csp_MGTV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
