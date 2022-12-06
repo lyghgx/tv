@@ -1,6 +1,5 @@
 {
-"sites":[
-{"name":"💫wdw","key":"csp_Jianying","api":"csp_Jianying","type":3,"filterable":1,"quickSearch":1,"searchable":1},     
+"sites":[  
 {"name":"💫360影视","key":"csp_SP360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"name":"🌕小苹果源","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕快看影视","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -44,8 +43,7 @@
 {"name":"🌐神马影院 xBPQ","key":"xBPQ_神马影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/神马影院.json"},
 {"name":"🌐厂长资源 xBPQ","key":"xBPQ_厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/厂长资源.json"},
 {"name":"🌐番茄影视 xBPQ","key":"xBPQ_番茄影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/番茄影视.json"},
-{"name":"🌐1080在线 xBPQ","key":"xBPQ_1080在线","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/1080在线.json"},
-{"name":"🌐影视工场 xBPQ","key":"xBPQ_影视工场","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/影视工场.json"}
+{"name":"🌐1080在线 xBPQ","key":"xBPQ_1080在线","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/1080在线.json"}
 ],
 
 //
