@@ -85,8 +85,8 @@
 
 //壁纸+jar+直播
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-//"spider":"https://raw.iqiq.io/lyghgx/tv/main/jar/pp14.jar;md5;eadf2a7a1419c0a15ce47e354f47880d",
-"spider":"https://tvbox.cainisi.cf/jar/xBPQ1107.jar;md5;cbed3e092e72cf6a5daae15d3084bfce",
+"spider":"https://raw.iqiq.io/lyghgx/tv/main/jar/pp14.jar;md5;eadf2a7a1419c0a15ce47e354f47880d",
+//"spider":"https://tvbox.cainisi.cf/jar/xBPQ1107.jar;md5;cbed3e092e72cf6a5daae15d3084bfce",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9seWdoZ3gvdHYvbWFpbi90di90dmxpdmUudHh0"]}]}],
 
 //解码模式
