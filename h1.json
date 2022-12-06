@@ -1,8 +1,5 @@
 {
 "sites":[
-{"name":"💫aa","key":"csp_Bdys01","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"name":"💫dd","key":"csp_Bttwoo","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"name":"💫addw","key":"csp_Ddys","api":"csp_Ddys","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"name":"💫wdw","key":"csp_Jianying","api":"csp_Jianying","type":3,"filterable":1,"quickSearch":1,"searchable":1},     
 {"name":"💫360影视","key":"csp_SP360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"name":"🌕小苹果源","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -85,8 +82,8 @@
 
 //壁纸+jar+直播
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.iqiq.io/lyghgx/tv/main/jar/pp14.jar;md5;eadf2a7a1419c0a15ce47e354f47880d",
-//"spider":"https://tvbox.cainisi.cf/jar/xBPQ1107.jar;md5;cbed3e092e72cf6a5daae15d3084bfce",
+//"spider":"https://raw.iqiq.io/lyghgx/tv/main/jar/pp14.jar;md5;eadf2a7a1419c0a15ce47e354f47880d",
+"spider":"https://tvbox.cainisi.cf/jar/xBPQ1107.jar;md5;cbed3e092e72cf6a5daae15d3084bfce",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9seWdoZ3gvdHYvbWFpbi90di90dmxpdmUudHh0"]}]}],
 
 //解码模式
