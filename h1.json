@@ -1,10 +1,9 @@
 {
 "sites":[
-{"name":"💫1","key":"csp_SP360","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"name":"💫2","key":"csp_SP360","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"name":"💫3","key":"csp_SP360","api":"csp_Ddys","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"name":"💫4","key":"csp_SP360","api":"csp_Jianying","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-         
+{"name":"💫1","key":"csp_Bdys01","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"name":"💫2","key":"csp_Bttwoo","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"name":"💫3","key":"csp_Ddys","api":"csp_Ddys","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"name":"💫4","key":"csp_Jianying","api":"csp_Jianying","type":3,"filterable":1,"quickSearch":1,"searchable":1},     
 {"name":"💫360影视","key":"csp_SP360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"name":"🌕小苹果源","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕快看影视","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
