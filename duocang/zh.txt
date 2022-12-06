@@ -10,7 +10,7 @@
            "name":"自建2"
         },
 	{
-           "url":"https://pandora2277.github.io/tang.bmp",
+           "url":"https://hutool.ml/tang",
            "name":"唐长老"
         },
 	{
