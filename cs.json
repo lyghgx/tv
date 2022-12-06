@@ -28,21 +28,7 @@
 
 //
 "drives":[
-{"name":"小雅的分类网盘","server":"http://alist.xiaoya.pro","type":"alist"},
-{"name":"🦀9T(Adult)","server":"https://drive.9t.ee","type":"alist"},
-{"name":"🌤晴园的宝藏库","server":"https://alist.52qy.repl.co","type":"alist"},
-{"name":"🐭米奇妙妙屋","server":"https://anime.mqmmw.ga","type":"alist"},
-{"name":"💂小兵组网盘影视","server":"https://6vv.app","type":"alist"},
-{"name":"🐋一只鱼","server":"https://alist.youte.ml","type":"alist"},
-{"name":"🌊七米蓝","server":"https://al.chirmyram.com","type":"alist"},
-{"name":"🥼帅盘","server":"https://hi.shuaipeng.wang","type":"alist"},
-{"name":"☃姬路白雪","server":"https://pan.jlbx.xyz","type":"alist"},
-{"name":"💾DISK","server":"http://124.222.140.243:8080","type":"alist"},
-{"name":"✨星梦","server":"https://pan.bashroot.top","type":"alist"},
-{"name":"💫触光","server":"https://pan.ichuguang.com","type":"alist"},
-{"name":"🕵好汉吧","server":"https://8023.haohanba.cn","type":"alist"},
-{"name":"🌨秋雨分享","server":"https://www.kugutsu.ml","type":"alist"},
-{"name":"💦讯维云盘","server":"https://drive.9t.ee","type":"alist"}
+{"name":"小雅的分类网盘","server":"http://alist.xiaoya.pro","type":"alist"}
 ],
 
  //解析接口
@@ -52,9 +38,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"CK解析","type":1,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"醉仙","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}
+{"name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 
