@@ -2,10 +2,7 @@
 "storeHouse":[
 {"sourceName": "iqiq",
  "sourceUrl": "https://raw.iqiq.io/lyghgx/tv/main/duocang/zh.txt"},
- 
-{"sourceName": "fastgit",
- "sourceUrl": "https://raw.fastgit.org//lyghgx/tv/main/duocang/zh.txt"},
- 
+
 {"sourceName": "安卓哥开发1号仓",
  "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
  
@@ -19,7 +16,7 @@
  "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
  
 {"sourceName": "安卓哥开发py仓库",
-  "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"}
+ "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"}
  
 ]
 }
