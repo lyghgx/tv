@@ -11,18 +11,7 @@
 
 {"name":"刚刚","url":"http://刚刚.live/猫"},
 
-{"name":"dxawi","url":"http://dxawi.github.io/0/0.json"},
+{"name":"dxawi","url":"http://dxawi.github.io/0/0.json"}
 
-{"name":"南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
-
-{"name":"神器","url":"https://神器每日推送.tk/pz.json"},
-
-{"name":"刘备","url":"https://raw.liucn.cc/box/m.json"},
-
-{"name":"俊的","url":"http://home.jundie.top:81/top98.json"},
-
-{"name":"云星家庭","url":"https://maoyingshi.cc/tvbox/云星日记/1.m3u8"},
-
-{"name":"道长","url":"http://101.34.67.237/config/3"}
 ]
 }
