@@ -16,7 +16,7 @@
 {"name":"巧技","url":"http://pandown.pro/tvbox/tvbox.json"},
 
 {"name":"神器","url":"https://神器每日推送.tk/pz.json"},
-,
+
 {"name":"饭太硬","url":"http://饭太硬.ga/x/o.json"},
 
 {"name":"18","url":"https://raw.iqiq.io/lyghgx/tv/main/18.json"}
