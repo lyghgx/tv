@@ -1,5 +1,7 @@
 ### TVBox配置接口
 
+[多仓](https://raw.iqiq.io/lyghgx/tv/main/duocang/0.txt)
+
 多仓：https://raw.iqiq.io/lyghgx/tv/main/duocang/0.txt
 
 唐三：https://hutool.ml/tang
