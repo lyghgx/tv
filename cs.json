@@ -70,6 +70,7 @@
 
 //xBPQ系列
 {"name":"🌐1080TV xBPQ","key":"xBPQ_1080TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/1080TV.json"},
+{"name":"🌐LIBVIO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/LIBVIO.json"},
 {"name":"🌐LIBVIO xBPQ","key":"xBPQ_LIBVIO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/LIBVIO.json"},
 {"name":"🌐VOFLIX xBPQ","key":"xBPQ_VOFLIX","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/VOFLIX.json"},
 {"name":"🌐皮皮泡 xBPQ","key":"xBPQ_皮皮泡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tv/main/XBPQ/皮皮泡.json"},
