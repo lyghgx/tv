@@ -117,7 +117,7 @@
 
 //壁纸+jar+直播
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.iqiq.io/lyghgx/tv/main/jar/xBPQ.jar;md5;ae6105d1e3c5dc727f9dc45596b35fb8",
+"spider":"https://raw.iqiq.io/lyghgx/tv/main/jar/hover.jar;md5;18aa701789a168dcc572f6251a51860f",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"]}]}],
 
 //解码模式
