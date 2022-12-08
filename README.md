@@ -39,7 +39,7 @@ takagen99/#takagen99：[GitHub仓库](https://github.com/takagen99/Box)   [发�
 - 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
 - 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://xn--sss604efuw.ga/%e7%bc%96%e8%be%91%e5%99%a8/)
 ### 版本
 - 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
 
