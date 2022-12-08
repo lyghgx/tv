@@ -1,6 +1,9 @@
 {
 "storeHouse":[
-{"sourceName": "iqiq",
+{"sourceName": "1",
+ "sourceUrl": "https://raw.iqiq.io/lyghgx/tv/main/duocang/zh.txt"},
+ 
+{"sourceName": "2",
  "sourceUrl": "https://raw.iqiq.io/lyghgx/tv/main/duocang/zh.txt"},
 
 {"sourceName": "安卓哥开发1号仓",
