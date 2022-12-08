@@ -40,28 +40,12 @@ takagen99/#takagen99：[GitHub仓库](https://github.com/takagen99/Box)   [发�
 - 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://xn--sss604efuw.ga/%e7%bc%96%e8%be%91%e5%99%a8/)
-### 版本
-- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
 
-- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20221005-2255-takagen99.apk](https://liucn.lanzouv.com/iXLfq0dccr3i)
-
-- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.5.2正式版.apk](https://liucn.lanzouv.com/i7otG0cmgvob)
+### APP下载
+https://lyghgx23.lanzoue.com/b018aym5g 密码:8bwc
 
 
-下载地址 | 使用设置 
----------|---------
-[TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />一一一一一一一一一一一一一一一一一一一一一一一<br />[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates)<br />一一一一一一一一一一一一一一一一一一一一一一一<br />[懒人版小苹果](https://liucn.lanzouv.com/iFIQ40c484dc)<br />[内置源](http://xpgtv.com) |1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />一一一一一一一一一一一一一一一一一一一一一一一<br />2). 开启存储权限——将源接口文件放到根目录文件夹<br /> `资源更新快，几乎没人用这个方法`<br />一一一一一一一一一一一一一一一一一一一一一一一<br />3). 自行复刻、新建仓库、制作上传 获取链接<br />  `别忘记改源地址，防止不能使用` 
-
-TVbox开源版 |Pluto Player改版
----------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box011.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto02.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box021.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto041.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box031.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto03.jpg)
-
-MXPlayer-Pro-1.46.10高级解锁版   
-[https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
-[https://tsq.lanzouf.com/b0c4p1nyf](https://tsq.lanzouf.com/b0c4p1nyf) 密 123   
-
+### 其他教程
 [道长dr_py搭建图文演示教程](http://www.liucn.cc/83.html),经过测试Replit免费搭建的站点 只能自用，人多就会爆表。  
 
 ------
