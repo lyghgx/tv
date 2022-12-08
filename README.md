@@ -1,6 +1,5 @@
 ### TVBox配置接口
 
-[多仓](https://raw.iqiq.io/lyghgx/tv/main/duocang/0.txt)
 
 多仓：https://raw.iqiq.io/lyghgx/tv/main/duocang/0.txt
 
@@ -24,15 +23,15 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 
 ### 开源软件
 
-FongMI：[GitHub仓库](https://github.com/fantaiying7/FongMi-TV)   [发布频道](https://t.me/+Zcj4gVQhHykwMGU1)
+FongMI：[GitHub仓库](https://github.com/fantaiying7/FongMi-TV)     [发布频道](https://t.me/+Zcj4gVQhHykwMGU1)
 
 台湾活雷锋，基于 library，轻巧、极简而强大的播放器，加强EXO，无缝换源，直播支持收藏、mitv、m3u，在线更新，你值得拥有。ps：2022/11/15 增加了安卓4.2-4.4的版本。
 
-俊于/#q215613905：[GitHub仓库](https://github.com/q215613905/TVBoxOS)   [发布频道](https://t.me/TVBoxOSC)
+俊于/#q215613905：[GitHub仓库](https://github.com/q215613905/TVBoxOS)     [发布频道](https://t.me/TVBoxOSC)
 
 Tvbox源码加更，官仓归档后一直延续官仓风格的版本，几位大佬更新维护，功能多、好用，适配低版本安卓。
 
-takagen99/#takagen99：[GitHub仓库](https://github.com/takagen99/Box)   [发布频道](https://t.me/TVBoxOSC)
+takagen99/#takagen99：[GitHub仓库](https://github.com/takagen99/Box)     [发布频道](https://t.me/TVBoxOSC)
 
 也是基于Tvbox官仓源码，修改美化UI，支持webdav，直播支持回放、epg。
 
