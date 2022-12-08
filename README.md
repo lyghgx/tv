@@ -96,5 +96,4 @@ Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245
 `https://purge.jsdelivr.net/gh/`  
 
 ------
-### 以上为互联网流传资源，不保证内容的真实性和可靠性。
 
