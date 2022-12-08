@@ -25,7 +25,7 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 
 FongMI：[GitHub仓库](https://github.com/fantaiying7/FongMi-TV)     [发布频道](https://t.me/+Zcj4gVQhHykwMGU1)
 
-台湾活雷锋，基于 library，轻巧、极简而强大的播放器，加强EXO，无缝换源，直播支持收藏、mitv、m3u，在线更新，你值得拥有。ps：2022/11/15 增加了安卓4.2-4.4的版本。
+台湾活雷锋，基于 library，轻巧、极简而强大的播放器，加强EXO，无缝换源，直播支持收藏、mitv、m3u，在线更新。
 
 俊于/#q215613905：[GitHub仓库](https://github.com/q215613905/TVBoxOS)     [发布频道](https://t.me/TVBoxOSC)
 
@@ -35,22 +35,15 @@ takagen99/#takagen99：[GitHub仓库](https://github.com/takagen99/Box)     [发
 
 也是基于Tvbox官仓源码，修改美化UI，支持webdav，直播支持回放、epg。
 
-### TVBox 开源版
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。  
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://xn--sss604efuw.ga/%e7%bc%96%e8%be%91%e5%99%a8/)
-
 ### APP下载
+
 [影视APP](https://lyghgx23.lanzoue.com/b018aym5g)  密码: 8bwc
 
 
 ### 其他教程
 [道长dr_py搭建图文演示教程](http://www.liucn.cc/83.html),经过测试Replit免费搭建的站点 只能自用，人多就会爆表。  
 
+编辑器 PC Web版 [CatVodTVJsonEditor](https://xn--sss604efuw.ga/%e7%bc%96%e8%be%91%e5%99%a8/)
 ------
 ### 开源仓库
 https://github.com/  
