@@ -1,11 +1,13 @@
 {
 "sites":[  
-{"name":"💫360影视","key":"csp_SP360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"name":"🌕小苹果源","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕快看影视","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕剧荒影院","key":"csp_Juhuang","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🌕两个BT","key":"csp_Bttoo","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"🌕两个BT","key":"csp_Bttoo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🍋芒果TV(官)","key":"csp_MGTV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"🍅腾讯视频(官)","key":"csp_QQ","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"🥝爱奇艺(官)","key":"csp_IQIYI","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"💫360影视","key":"csp_SP360","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
 //xBPQ系列
 {"name":"🌐LIBVIO","key":"xBPQ_LIBVIO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/lyghgx/tv/main/XBPQ/LIBVIO.json"},
 {"name":"🌐VOFLIX","key":"xBPQ_VOFLIX","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/lyghgx/tv/main/XBPQ/VOFLIX.json"},
