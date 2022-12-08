@@ -4,7 +4,7 @@
 
 FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
 
-巧技：http://pandown.pro/tvbox/tvbox.json  (需关注公众号)
+巧技：http://pandown.pro/tvbox/tvbox.json
 
 俊于：http://home.jundie.top:81/top98.json
 
@@ -20,7 +20,7 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 
  开源软件
 
-FongMI：GitHub仓库    发布频道
+FongMI：[GitHub仓库](https://github.com/fantaiying7/FongMi-TV)  [发布频道](https://t.me/+Zcj4gVQhHykwMGU1)  
 
 台湾活雷锋，基于 library，轻巧、极简而强大的播放器，加强EXO，无缝换源，直播支持收藏、mitv、m3u，在线更新，你值得拥有。ps：2022/11/15 增加了安卓4.2-4.4的版本。
 
@@ -97,8 +97,7 @@ Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245
 `https://raw.fastgit.org/liu673cn/box/main/m.json`  
 韩国  
 `https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json`  
-`https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json`  
-
+`https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json`
 `https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json`  
 `https://raw.githubusercontents.com/liu673cn/box/main/m.json`  
 
@@ -110,5 +109,5 @@ Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245
 `https://purge.jsdelivr.net/gh/`  
 
 ------
-### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集[Box](https://docs.qq.com/sheet/DWmt2RklvT3lYZ3dM?tab=BB08J2)，自用请勿宣传。
+### 以上为互联网流传资源，不保证内容的真实性和可靠性。
 
