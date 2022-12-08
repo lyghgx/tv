@@ -44,7 +44,7 @@ takagen99/#takagen99：[GitHub仓库](https://github.com/takagen99/Box)   [发�
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://xn--sss604efuw.ga/%e7%bc%96%e8%be%91%e5%99%a8/)
 
 ### APP下载
-https://lyghgx23.lanzoue.com/b018aym5g 密码:8bwc
+[影视APP](https://lyghgx23.lanzoue.com/b018aym5g)  密码: 8bwc
 
 
 ### 其他教程
