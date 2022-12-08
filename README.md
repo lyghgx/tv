@@ -41,9 +41,10 @@ takagen99/#takagen99：[GitHub仓库](https://github.com/takagen99/Box)     [发
 
 
 ### 其他教程
-[道长dr_py搭建图文演示教程](http://www.liucn.cc/83.html),经过测试Replit免费搭建的站点 只能自用，人多就会爆表。  
+[道长dr_py搭建图文演示教程](http://www.liucn.cc/83.html),经过测试Replit免费搭建的站点 只能自用，人多就会爆表。 
 
 编辑器 PC Web版 [CatVodTVJsonEditor](https://xn--sss604efuw.ga/%e7%bc%96%e8%be%91%e5%99%a8/)
+
 ------
 ### 开源仓库
 https://github.com/  
