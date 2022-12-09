@@ -1,7 +1,7 @@
 {
 "sites":[
 {"name":"🅱豆瓣热播","key":"js豆瓣","type":3,"api":"https://raw.iqiq.io/lyghgx/tv/main/js/drpy2.min.js","ext":"https://raw.iqiq.io/lyghgx/tv/main/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"name":"🅱豆瓣荐片","key":"t4豆瓣","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"name":"🅱豆瓣荐片","key":"t4豆瓣","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"name":"🌕快看影视","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🌕小苹果源","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
