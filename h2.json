@@ -94,6 +94,7 @@
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 
 //壁纸+jar+直播
+"wallpaper":"https://壁纸.神器每日推送.tk",
 "spider":"https://raw.kgithub.com/lyghgx/tv/main/jar/hover.jar;md5;18aa701789a168dcc572f6251a51860f",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"]}]}],
 
