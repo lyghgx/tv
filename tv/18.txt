@@ -1,5 +1,5 @@
-精华,#genre#
-1,https://w9n761.cdnedge.live/file/avple-asserts/hls/63a364106f0f634b633b0168/playlist.m3u8
+自选,#genre#
+MAD-011 玉女心經-陳可心,https://e2fa6.cdnedge.live/file/avple-images/hls/612f8fa1aea52029946451ce/playlist.m3u8
 玩偶姐姐,#genre#
 测试1,https://fmoclepuyo.motv.app/Japanuncode8877/HongKongDoll32.m3u8
 测试2,https://fmoclepuyo.motv.app/Japanuncode8877/HongKongDoll26.m3u8
