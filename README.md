@@ -19,7 +19,7 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 
 神器：https://神器每日推送.tk/pz.json
 
-饭太硬：http://饭太硬.ga/x/o.json
+饭太硬：http://饭太硬.ga/tv
 
 ### 开源软件
 
